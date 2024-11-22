@@ -3,11 +3,13 @@
             <div class="container-fluid">
                 <div class="container">
                     <div class="footer-info">
-                        <a href="index.html" class="footer-logo">Y<span>oo</span>ga</a>
+                        <a href="/" class="footer-logo">
+                            <img src="images/logo.png" alt="Agne Foundation" style="width: 20%;">
+                        </a>
                         <h3>123 Street, New York, USA</h3>
                         <div class="footer-menu">
-                            <p>+012 345 67890</p>
-                            <p>info@example.com</p>
+                            <p>+91-9122329991</p>
+                            <p>agnefoundation@gmail.com  </p>
                         </div>
                         <div class="footer-social">
                             <a href=""><i class="fab fa-twitter"></i></a>

@@ -20,7 +20,7 @@
                             </p>
                             <div class="hero-btn">
                                 <!-- <a class="btn" href="">Join Now</a> -->
-                                <a class="btn" href="">Contact Us</a>
+                                <a class="btn" href="contact">Contact Us</a>
                             </div>
                         </div>
                     </div>
@@ -83,14 +83,26 @@
                             </p>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
                         <div class="service-item active">
                             <div class="service-icon">
-                                <i class="flaticon-workout-1"></i>
+                                <i class="flaticon-workout-3"></i>
                             </div>
-                            <h3>Raja Yoga</h3>
+                            <h3>Karma Yoga</h3>
                             <p>
-                                Meditation brings harmony and balance between body, mind, and intellect.
+                                Yoga brings a state of equanimity, enhancing focus and efficiency in action.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="1s">
+                        <div class="service-item">
+                            <div class="service-icon">
+                                <i class="flaticon-yoga-pose"></i>
+                            </div>
+                            <h3>Gyana Yoga</h3>
+                            <p>
+                                Life in yogic wisdom brings liberation and bliss, turning the body into a walking temple.
                             </p>
                         </div>
                     </div>
@@ -105,17 +117,8 @@
                             </p>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
-                        <div class="service-item">
-                            <div class="service-icon">
-                                <i class="flaticon-workout-3"></i>
-                            </div>
-                            <h3>Karma Yoga</h3>
-                            <p>
-                                Yoga brings a state of equanimity, enhancing focus and efficiency in action.
-                            </p>
-                        </div>
-                    </div>
+
+                    
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.8s">
                         <div class="service-item">
                             <div class="service-icon">
@@ -127,17 +130,20 @@
                             </p>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="1s">
+
+
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                         <div class="service-item">
                             <div class="service-icon">
-                                <i class="flaticon-yoga-pose"></i>
+                                <i class="flaticon-workout-1"></i>
                             </div>
-                            <h3>Gyana Yoga</h3>
+                            <h3>Raja Yoga</h3>
                             <p>
-                                Life in yogic wisdom brings liberation and bliss, turning the body into a walking temple.
+                                Meditation brings harmony and balance between body, mind, and intellect.
                             </p>
                         </div>
                     </div>
+                    
                 </div>
             </div>
         </div>
@@ -148,8 +154,8 @@
         <div class="class">
             <div class="container">
                 <div class="section-header text-center wow zoomIn" data-wow-delay="0.1s">
-                    <p>Our Classes</p>
-                    <h2>Yoga Class Shedule</h2>
+                    <p>Our Courses</p>
+                    <h2>Yoga course Shedule</h2>
                 </div>
                 <!-- <div class="row">
                     <div class="col-12">
@@ -238,8 +244,32 @@
                             </div>
                         </div>
                     </div>
+
+                    <div class="row">
+                        <div class="col-12">
+                            &nbsp;
+                        </div>
+                    </div> 
+
+
+                    <div class="row">
+                        <div class="col-12">
+                            &nbsp;
+                        </div>
+                    </div> 
+
+                    
+                    <div class="row">
+                        <div class="col-12">
+                            &nbsp;
+                        </div>
+                    </div> 
                     
                 </div>
+
+
+
+
             </div>
         </div>
         <!-- Class End -->
@@ -249,116 +279,21 @@
         <div class="discount wow zoomIn" data-wow-delay="0.1s">
             <div class="container">
                 <div class="section-header text-center">
-                    <p>Awesome Discount</p>
-                    <h2>Get <span>30%</span> Discount for all Classes</h2>
+                    <p>Scholarship</p>
+                    <h2>Get <span>30%</span> scholarship for all Courses</h2>
                 </div>
                 <div class="container discount-text">
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem. Curabitur non nisl nec nisi scelerisque maximus. 
+                           Financial aid for deserving students to pursue yoga education.
                     </p>
-                    <a class="btn">Join Now</a>
+                    <!-- <a class="btn">Join Now</a> -->
                 </div>
             </div>
         </div>
         <!-- Discount End -->
         
         
-        <!-- Price Start -->
-        <div class="price">
-            <div class="container">
-                <div class="section-header text-center wow zoomIn" data-wow-delay="0.1s">
-                    <p>Yoga Package</p>
-                    <h2>Yoga Pricing Plan</h2>
-                </div>
-                <div class="row">
-                    <div class="col-md-4 wow fadeInUp" data-wow-delay="0.0s">
-                        <div class="price-item">
-                            <div class="price-header">
-                                <div class="price-title">
-                                    <h2>Basic</h2>
-                                </div>
-                                <div class="price-prices">
-                                    <h2><small>$</small>49<span>/ mo</span></h2>
-                                </div>
-                            </div>
-                            <div class="price-body">
-                                <div class="price-description">
-                                    <ul>
-                                        <li>Personal Trainer</li>
-                                        <li>Special Class</li>
-                                        <li>Free Tutorials</li>
-                                        <li>Group Training</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="price-footer">
-                                <div class="price-action">
-                                    <a class="btn" href="">Join Now</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 wow fadeInUp" data-wow-delay="0.3s">
-                        <div class="price-item featured-item">
-                            <div class="price-header">
-                                <div class="price-status">
-                                    <span>Popular</span>
-                                </div>
-                                <div class="price-title">
-                                    <h2>Standard</h2>
-                                </div>
-                                <div class="price-prices">
-                                    <h2><small>$</small>99<span>/ mo</span></h2>
-                                </div>
-                            </div>
-                            <div class="price-body">
-                                <div class="price-description">
-                                    <ul>
-                                        <li>Personal Trainer</li>
-                                        <li>Special Class</li>
-                                        <li>Free Tutorials</li>
-                                        <li>Group Training</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="price-footer">
-                                <div class="price-action">
-                                    <a class="btn" href="">Join Now</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 wow fadeInUp" data-wow-delay="0.6s">
-                        <div class="price-item">
-                            <div class="price-header">
-                                <div class="price-title">
-                                    <h2>Premium</h2>
-                                </div>
-                                <div class="price-prices">
-                                    <h2><small>$</small>149<span>/ mo</span></h2>
-                                </div>
-                            </div>
-                            <div class="price-body">
-                                <div class="price-description">
-                                    <ul>
-                                        <li>Personal Trainer</li>
-                                        <li>Special Class</li>
-                                        <li>Free Tutorials</li>
-                                        <li>Group Training</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="price-footer">
-                                <div class="price-action">
-                                    <a class="btn" href="">Join Now</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Price End -->
+        
         
         
         <!-- Testimonial Start -->

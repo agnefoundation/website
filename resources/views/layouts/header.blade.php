@@ -36,12 +36,12 @@
                         <div class="top-bar-left">
                             <div class="text">
                                 <i class="far fa-clock"></i>
-                                <h2>8:00 - 9:00</h2>
+                                <h2>9:00 AM - 6:00 PM</h2>
                                 <p>Mon - Fri</p>
                             </div>
                             <div class="text">
                                 <i class="fa fa-phone-alt"></i>
-                                <h2>+123 456 7890</h2>
+                                <h2>+91-9122329991</h2>
                                 <p>For Appointment</p>
                             </div>
                         </div>
@@ -64,19 +64,21 @@
         <!-- Nav Bar Start -->
     <div class="navbar navbar-expand-lg bg-dark navbar-dark">
         <div class="container-fluid">
-            <a href="/" class="navbar-brand">Y<span>oo</span>ga</a>
+            <a href="/" class="navbar-brand">
+                <img src="images/logo.png" alt="Agne Foundation">
+            </a>
             <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                 <span class="navbar-toggler-icon"></span>
             </button>
 
             <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                 <div class="navbar-nav ml-auto">
-                    <a href="/" class="nav-item nav-link active">Home</a>
-                    <a href="about" class="nav-item nav-link">About</a>
-                    <a href="service.html" class="nav-item nav-link">Service</a>
-                    <a href="price.html" class="nav-item nav-link">Price</a>
-                    <a href="class.html" class="nav-item nav-link">Class</a>
-                    <a href="contact.html" class="nav-item nav-link">Contact</a>
+                    <a href="/" class="nav-item nav-link {{ Request::is('/') ? 'active' : '' }}">Home</a>
+                    <a href="about" class="nav-item nav-link {{ Request::is('about') ? 'active' : '' }}">About</a>
+                    <a href="our-offering" class="nav-item nav-link {{ Request::is('our-offering') ? 'active' : '' }}">Our Offering</a>
+                    <a href="course" class="nav-item nav-link {{ Request::is('course') ? 'active' : '' }}">Course</a>
+                    <a href="dharam-yatra" class="nav-item nav-link {{ Request::is('dharam-yatra') ? 'active' : '' }}">Dharam Yatra</a>                  
+                    <a href="contact" class="nav-item nav-link {{ Request::is('contact') ? 'active' : '' }}">Contact</a>
                 </div>
             </div>
         </div>
