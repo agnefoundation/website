@@ -32,7 +32,7 @@
             <div class="container">
                 <div class="section-header text-center wow zoomIn" data-wow-delay="0.1s">
                     <p>What we do</p>
-                    <h2>Yoga For Health</h2>
+                    <h2>Yoga For Life</h2>
                 </div>
                 <div class="row">
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.0s">

@@ -39,7 +39,7 @@
                         </div>
                         <div class="about-text">
                             <p>
-                                Agne Yoga Institution is a spiritual organisation. It offers all dimensions of yoga: kriya yoga, Karma Yoga, gyana Yoga, Bhakti Yoga, hath yoga, and Raja Yoga. The purpose of Agne Yoga is to spread the ancient Indian yogic system and knowledge globally for the spiritual transformation and welfare of all beings. By connecting with the science of Brahmavidya and immersing in practice, service, and Satsang, seekers can partake in this spiritual revolution.
+                                 Agne Yoga Institution is a spiritual organisation. It offers all dimensions of yoga: kriya yoga, Karma Yoga, gyana Yoga, Bhakti Yoga, hath yoga, and Raja Yoga. The purpose of Agne Yoga is to spread the ancient Indian yogic system and knowledge globally for the spiritual transformation and welfare of all beings. By connecting with the science of Brahmavidya and immersing in SEVA, SATSANG and SADHANA, seekers can partake in this spiritual revolution.
 
 
                             </p>
@@ -52,7 +52,7 @@
                         </div>
                         <div class="about-text">
                             <p>
-                                We aim to balance two primary and opposing energies within the body—Pingala (vital energy, "Ha") and Ida (mental energy, "Tha")—to enable the unobstructed upward flow of energy through the Kundalini
+                                Lack of wisdom and attention deficiency are the root cause of suffering. Through different yogic tools and techniques we undo this. For example-: When breath and awareness are combined with Asanas, the mind is kept alert so that it does not wander in thoughts and stress. Then these become YOGASANAS rather than just physical postures. If Yogasanas are practiced correctly, they harmonize the functioning of the autonomic nerves, hormonal secretion and internal organs and provide relaxation to the mind. Along with this comes the awareness that all these influence each other. Similarly, consciousness gradually expands through various yogic processes and this awareness provides the ability to understand. And understand the subtler and subtlest areas of existence. which lead to end of all the suffering.
                             </p>
                             
                         </div>

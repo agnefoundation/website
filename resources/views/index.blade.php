@@ -51,7 +51,7 @@
                         </div>
                         <div class="about-text">
                             <p>
-                                Agne Yoga Institution is a spiritual organisation. It offers all dimensions of yoga: kriya yoga, Karma Yoga, gyana Yoga, Bhakti Yoga, hath yoga, and Raja Yoga. The purpose of Agne Yoga is to spread the ancient Indian yogic system and knowledge globally for the spiritual transformation and welfare of all beings. By connecting with the science of Brahmavidya and immersing in practice, service, and Satsang, seekers can partake in this spiritual revolution.
+                                Agne Yoga Institution is a spiritual organisation. It offers all dimensions of yoga: kriya yoga, Karma Yoga, gyana Yoga, Bhakti Yoga, hath yoga, and Raja Yoga. The purpose of Agne Yoga is to spread the ancient Indian yogic system and knowledge globally for the spiritual transformation and welfare of all beings. By connecting with the science of Brahmavidya and immersing in SEVA, SATSANG and SADHANA, seekers can partake in this spiritual revolution.
 
 
                             </p>
@@ -69,7 +69,7 @@
             <div class="container">
                 <div class="section-header text-center wow zoomIn" data-wow-delay="0.1s">
                     <p>What we do</p>
-                    <h2>Yoga For Health</h2>
+                    <h2>Yoga For Life</h2>
                 </div>
                 <div class="row">
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.0s">
