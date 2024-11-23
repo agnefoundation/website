@@ -38,7 +38,7 @@
                                 <i class="fa fa-map-marker-alt"></i>
                                 <div class="contact-text">
                                     <h2>Location</h2>
-                                    <p>123 Street, New York, USA</p>
+                                    <p>Kharghar, Navi Mumbai, Maharashtra - 410210</p>
                                 </div>
                             </div>
                             <div class="col-md-4 contact-item wow zoomIn" data-wow-delay="0.4s">

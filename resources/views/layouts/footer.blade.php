@@ -4,9 +4,9 @@
                 <div class="container">
                     <div class="footer-info">
                         <a href="/" class="footer-logo">
-                            <img src="images/logo.png" alt="Agne Foundation" style="width: 20%;">
+                            <img src="images/logo.png" alt="Agne Foundation" style="width: 100%;">
                         </a>
-                        <h3>123 Street, New York, USA</h3>
+                        <h3>Kharghar, Navi Mumbai, Maharashtra - 410210 </h3>
                         <div class="footer-menu">
                             <p>+91-9122329991</p>
                             <p>agnefoundation@gmail.com  </p>
