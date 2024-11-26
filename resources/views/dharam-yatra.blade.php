@@ -44,46 +44,279 @@
                 <div class="row portfolio-container">
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
                         <div class="portfolio-wrap">
-                            <a href="img/portfolio-1.jpg" data-lightbox="portfolio">
-                                <img src="img/portfolio-1.jpg" alt="Portfolio Image">
+                            <a href="#" data-lightbox="portfolio">
+                                <img src="images/1.jpg" alt="Dharam Yatra Images">
                             </a>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item second wow fadeInUp" data-wow-delay="0.3s">
+                    
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
                         <div class="portfolio-wrap">
-                            <a href="img/portfolio-2.jpg" data-lightbox="portfolio">
-                                <img src="img/portfolio-2.jpg" alt="Portfolio Image">
+                            <a href="#" data-lightbox="portfolio">
+                                <img src="images/2.jpg" alt="Dharam Yatra Images">
                             </a>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item third wow fadeInUp" data-wow-delay="0.5s">
+                    
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
                         <div class="portfolio-wrap">
-                            <a href="img/portfolio-3.jpg" data-lightbox="portfolio">
-                                <img src="img/portfolio-3.jpg" alt="Portfolio Image">
+                            <a href="#" data-lightbox="portfolio">
+                                <img src="images/3.jpg" alt="Dharam Yatra Images">
                             </a>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.7s">
+
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
                         <div class="portfolio-wrap">
-                            <a href="img/portfolio-4.jpg" data-lightbox="portfolio">
-                                <img src="img/portfolio-4.jpg" alt="Portfolio Image">
+                            <a href="#" data-lightbox="portfolio">
+                                <img src="images/4.jpg" alt="Dharam Yatra Images">
                             </a>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item second wow fadeInUp" data-wow-delay="0.9s">
+                    
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
                         <div class="portfolio-wrap">
-                            <a href="img/portfolio-5.jpg" data-lightbox="portfolio">
-                                <img src="img/portfolio-5.jpg" alt="Portfolio Image">
+                            <a href="#" data-lightbox="portfolio">
+                                <img src="images/5.jpg" alt="Dharam Yatra Images">
                             </a>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item third wow fadeInUp" data-wow-delay="1.1s">
+
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
                         <div class="portfolio-wrap">
-                            <a href="img/portfolio-6.jpg" data-lightbox="portfolio">
-                                <img src="img/portfolio-6.jpg" alt="Portfolio Image">
+                            <a href="#" data-lightbox="portfolio">
+                                <img src="images/6.jpg" alt="Dharam Yatra Images">
                             </a>
                         </div>
                     </div>
+
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="portfolio-wrap">
+                            <a href="#" data-lightbox="portfolio">
+                                <img src="images/7.jpg" alt="Dharam Yatra Images">
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="portfolio-wrap">
+                            <a href="#" data-lightbox="portfolio">
+                                <img src="images/8.jpg" alt="Dharam Yatra Images">
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="portfolio-wrap">
+                            <a href="#" data-lightbox="portfolio">
+                                <img src="images/9.jpg" alt="Dharam Yatra Images">
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="portfolio-wrap">
+                            <a href="#" data-lightbox="portfolio">
+                                <img src="images/10.jpg" alt="Dharam Yatra Images">
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="portfolio-wrap">
+                            <a href="#" data-lightbox="portfolio">
+                                <img src="images/11.jpg" alt="Dharam Yatra Images">
+                            </a>
+                        </div>
+                    </div>                    
+
+
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="portfolio-wrap">
+                            <a href="#" data-lightbox="portfolio">
+                                <img src="images/12.jpg" alt="Dharam Yatra Images">
+                            </a>
+                        </div>
+                    </div>
+                    
+                    
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="portfolio-wrap">
+                            <a href="#" data-lightbox="portfolio">
+                                <img src="images/13.jpg" alt="Dharam Yatra Images">
+                            </a>
+                        </div>
+                    </div>
+
+
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="portfolio-wrap">
+                            <a href="#" data-lightbox="portfolio">
+                                <img src="images/14.jpg" alt="Dharam Yatra Images">
+                            </a>
+                        </div>
+                    </div>
+                    
+
+
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="portfolio-wrap">
+                            <a href="#" data-lightbox="portfolio">
+                                <img src="images/15.jpg" alt="Dharam Yatra Images">
+                            </a>
+                        </div>
+                    </div>
+                    
+                    
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="portfolio-wrap">
+                            <a href="#" data-lightbox="portfolio">
+                                <img src="images/16.jpg" alt="Dharam Yatra Images">
+                            </a>
+                        </div>
+                    </div>
+                    
+
+
+
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="portfolio-wrap">
+                            <a href="#" data-lightbox="portfolio">
+                                <img src="images/17.jpg" alt="Dharam Yatra Images">
+                            </a>
+                        </div>
+                    </div>
+                    
+
+
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="portfolio-wrap">
+                            <a href="#" data-lightbox="portfolio">
+                                <img src="images/18.jpg" alt="Dharam Yatra Images">
+                            </a>
+                        </div>
+                    </div>
+                    
+
+
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="portfolio-wrap">
+                            <a href="#" data-lightbox="portfolio">
+                                <img src="images/19.jpg" alt="Dharam Yatra Images">
+                            </a>
+                        </div>
+                    </div>
+
+
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="portfolio-wrap">
+                            <a href="#" data-lightbox="portfolio">
+                                <img src="images/20.jpg" alt="Dharam Yatra Images">
+                            </a>
+                        </div>
+                    </div>
+                    
+
+
+
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="portfolio-wrap">
+                            <a href="#" data-lightbox="portfolio">
+                                <img src="images/21.jpg" alt="Dharam Yatra Images">
+                            </a>
+                        </div>
+                    </div>
+
+
+
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="portfolio-wrap">
+                            <a href="#" data-lightbox="portfolio">
+                                <img src="images/22.jpg" alt="Dharam Yatra Images">
+                            </a>
+                        </div>
+                    </div>
+                    
+
+
+
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="portfolio-wrap">
+                            <a href="#" data-lightbox="portfolio">
+                                <img src="images/23.jpg" alt="Dharam Yatra Images">
+                            </a>
+                        </div>
+                    </div>
+                    
+
+
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="portfolio-wrap">
+                            <a href="#" data-lightbox="portfolio">
+                                <img src="images/24.jpg" alt="Dharam Yatra Images">
+                            </a>
+                        </div>
+                    </div>
+
+
+
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="portfolio-wrap">
+                            <a href="#" data-lightbox="portfolio">
+                                <img src="images/25.jpg" alt="Dharam Yatra Images">
+                            </a>
+                        </div>
+                    </div>
+                    
+
+
+
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="portfolio-wrap">
+                            <a href="#" data-lightbox="portfolio">
+                                <img src="images/26.jpg" alt="Dharam Yatra Images">
+                            </a>
+                        </div>
+                    </div>
+                    
+
+
+
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="portfolio-wrap">
+                            <a href="#" data-lightbox="portfolio">
+                                <img src="images/27.jpg" alt="Dharam Yatra Images">
+                            </a>
+                        </div>
+                    </div>
+                    
+
+
+
+                    <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="portfolio-wrap">
+                            <a href="#" data-lightbox="portfolio">
+                                <img src="images/28.jpg" alt="Dharam Yatra Images">
+                            </a>
+                        </div>
+                    </div>
+                    
+
+
+
+
+                    
+
+
+                    
+                    
+                    
+
+                    
+
+                    
+
+                    
                 </div>
             </div>
         </div>

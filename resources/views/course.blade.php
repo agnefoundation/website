@@ -36,7 +36,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-12 class-item filter-1 wow fadeInUp" data-wow-delay="0.0s">
                         <div class="class-wrap">
                             <div class="class-img">
-                                <img src="img/class-1.jpg" alt="Image">
+                                <img src="img/class-2.jpg" alt="Image">
                             </div>
                             <div class="class-text">
                                 <!-- <div class="class-teacher">
@@ -81,7 +81,7 @@
                             </div>
                             <div class="class-text">
                                 
-                                <h2>Madhyavarti-Yogasana Samuha</h2>
+                                <h2>Anglaghvam-Yogasana Samuha</h2>
                                 
                                 <div class="class-meta">
                                     <p><i class="far fa-calendar-alt"></i>8 weeks</p>
