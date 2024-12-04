@@ -28,7 +28,7 @@
         <div class="portfolio">
             <div class="container">
                 <div class="section-header text-center wow zoomIn" data-wow-delay="0.1s">
-                    <p>  Spiritual journeys and pilgrimages organised by Agne Yoga.</p>
+                    <p>  Spiritual journeys and pilgrimages organised by Agne Foundation.</p>
                     <!-- <h2>Awesome Yoga Pose</h2> -->
                 </div>
                 <div class="row">
@@ -65,6 +65,8 @@
                             </a>
                         </div>
                     </div>
+                </div>
+                <div class="row portfolio-container">
 
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
                         <div class="portfolio-wrap">
@@ -89,6 +91,8 @@
                             </a>
                         </div>
                     </div>
+                </div>  
+                <div class="row portfolio-container">
 
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
                         <div class="portfolio-wrap">
@@ -113,6 +117,8 @@
                             </a>
                         </div>
                     </div>
+                </div>
+                <div class="row portfolio-container">
 
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
                         <div class="portfolio-wrap">
@@ -139,7 +145,8 @@
                         </div>
                     </div>
                     
-                    
+                </div>
+                <div class="row portfolio-container">    
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
                         <div class="portfolio-wrap">
                             <a href="#" data-lightbox="portfolio">
@@ -167,7 +174,8 @@
                         </div>
                     </div>
                     
-                    
+                </div>
+                <div class="row portfolio-container">    
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
                         <div class="portfolio-wrap">
                             <a href="#" data-lightbox="portfolio">
@@ -198,7 +206,8 @@
                     </div>
                     
 
-
+                </div>
+                <div class="row portfolio-container">
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
                         <div class="portfolio-wrap">
                             <a href="#" data-lightbox="portfolio">
@@ -227,7 +236,8 @@
                         </div>
                     </div>
 
-
+                </div>
+                <div class="row portfolio-container">
 
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
                         <div class="portfolio-wrap">
@@ -259,7 +269,8 @@
                     </div>
 
 
-
+                </div>
+                <div class="row portfolio-container">
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
                         <div class="portfolio-wrap">
                             <a href="#" data-lightbox="portfolio">
@@ -291,7 +302,8 @@
                     </div>
                     
 
-
+                </div>
+                <div class="row portfolio-container">
 
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
                         <div class="portfolio-wrap">

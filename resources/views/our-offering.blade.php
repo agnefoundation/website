@@ -76,7 +76,7 @@
                             </div>
                             <h3>Bhakti Yoga</h3>
                             <p>
-                                Cultivating purity of thoughts and a peaceful mind state is Bhakti Yoga.
+                                Dissolve ego (AHAM) & dive deep into the constant selfless love of supreme consciousness.
                             </p>
                         </div>
                     </div>

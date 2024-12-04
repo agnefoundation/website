@@ -14,7 +14,7 @@
                 <div class="row align-items-center">
                     <div class="col-sm-12 col-md-6">
                         <div class="hero-text">
-                            <h1>Agne Yoga: The Abode of Bliss</h1>
+                            <h1>Agne Yoga: An Abode of Bliss</h1>
                             <p>
                                 Step into a realm of peace and harmony, where your journey to inner joy begins.
                             </p>
@@ -113,7 +113,7 @@
                             </div>
                             <h3>Bhakti Yoga</h3>
                             <p>
-                                Cultivating purity of thoughts and a peaceful mind state is Bhakti Yoga.
+                                Dissolve ego (AHAM) & dive deep into the constant selfless love of supreme consciousness.
                             </p>
                         </div>
                     </div>
@@ -187,7 +187,7 @@
                                     <p><i class="far fa-calendar-alt"></i>New Moon - Full Moon</p>
                                 </div>
                                 <div class="class-meta">
-                                    <p><i class="far fa-clock"></i>5:00 am - 6:00 am, 45 Days</p>
+                                    <p><i class="far fa-clock"></i>5:00 am - 6:00 am, 42 Days</p>
                                 </div>
                             </div>
                         </div>
@@ -195,20 +195,22 @@
                     <div class="col-lg-4 col-md-6 col-sm-12 class-item filter-2 wow fadeInUp" data-wow-delay="0.2s">
                         <div class="class-wrap">
                             <div class="class-img">
-                                <img src="img/class-2.jpg" alt="Image">
+                                <img src="img/saral-sadhana.jpg" alt="Image">
                             </div>
                             <div class="class-text">
                                 
-                                <h2>Yoga For Children</h2>
+                                <h2>Saral Sadhna </h2>
                                 <div class="class-meta">
                                     <p><i class="far fa-calendar-alt"></i>Monday to Saturday</p>
                                 </div>
                                 <div class="class-meta">
-                                    <p><i class="far fa-clock"></i>60 minutes</p>
+                                    <p><i class="far fa-clock"></i>10 sessions (Age 8 +)</p>
                                 </div>
+
                             </div>
                         </div>
                     </div>
+
                     <div class="col-lg-4 col-md-6 col-sm-12 class-item filter-3 wow fadeInUp" data-wow-delay="0.4s">
                         <div class="class-wrap">
                             <div class="class-img">
@@ -227,20 +229,38 @@
                             </div>
                         </div>
                     </div>
+                </div>
+                <div class="row class-container">
+
+                    <div class="col-lg-4 col-md-6 col-sm-12 class-item filter-2 wow fadeInUp" data-wow-delay="0.2s">
+                        <div class="class-wrap">
+                            <div class="class-img">
+                                <img src="img/bal-yogi.jpg" alt="Image">
+                            </div>
+                            <div class="class-text">
+                                
+                                <h2>Baal Yogi</h2>
+                                <div class="class-meta">
+                                    <p><i class="far fa-calendar-alt"></i>Monday to Saturday</p>
+                                </div>
+                                <div class="class-meta">
+                                    <p><i class="far fa-clock"></i>60 minutes</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
                     <div class="col-lg-4 col-md-6 col-sm-12 class-item filter-1 wow fadeInUp" data-wow-delay="0.6s">
                         <div class="class-wrap">
                             <div class="class-img">
                                 <img src="img/class-4.jpg" alt="Image">
                             </div>
-                            <div class="class-text">
+                            <div class="class-text">                                
+                                <h2>Custom</h2>
+                                <div class="class-meta">
+                                    <p><i class="far fa-calendar-alt"></i>contact us for further information</p>
+                                </div>
                                 
-                                <h2>Agne Hatha Yoga Shikshak</h2>
-                                <div class="class-meta">
-                                    <p><i class="far fa-calendar-alt"></i>2 months</p>
-                                </div>
-                                <div class="class-meta">
-                                    <p><i class="far fa-clock"></i>9:00 - 10:00</p>
-                                </div>
                             </div>
                         </div>
                     </div>
